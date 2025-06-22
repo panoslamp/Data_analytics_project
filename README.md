@@ -12,4 +12,6 @@ Insights and recommendations are provided on the following key areas:
 
 The original Nashville housing dataset had the bellow the structrure and included 1,048,575 records.
 ![Screenshot (71)](https://github.com/user-attachments/assets/6ee86f32-b7b3-4633-98fb-ea36678f92bb)
-The SQL queries that were used to cunduct the cleaning of the dataset can be found here.
+
+
+The SQL queries that were used to cunduct the cleaning of the dataset can be found [here](.
