@@ -14,4 +14,4 @@ The original Nashville housing dataset had the bellow the structrure and include
 ![Screenshot (71)](https://github.com/user-attachments/assets/6ee86f32-b7b3-4633-98fb-ea36678f92bb)
 
 
-The SQL queries that were used to cunduct the cleaning of the dataset can be found [here](.
+The SQL queries that were used to cunduct the cleaning of the dataset can be found [here](https://github.com/panoslamp/Data_analytics_project/blob/main/nashville%20housing%20cleanin).
