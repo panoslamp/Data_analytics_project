@@ -47,3 +47,7 @@ A major market shift was observed in early 2014.
 - Antioch has the highest average ROI at 21.08%, followed by Nashville city center and Hermitage, both exceeding the regional average of 19.35%. Notably, Antioch and Hermitage also feature relatively low land costs, making them particularly attractive for value-driven investment opportunities.
 - In contrast, Brentwood, Old Hickory, and Goodlettsville fall below the regional average, with average ROI in the 9–10% range. In particular, Brentwood's high land costs present a higher-risk investment, as the elevated entry price is not matched by a proportional return.
 
+
+### Recommendations
+
+
