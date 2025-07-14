@@ -47,7 +47,29 @@ A major market shift was observed in early 2014.
 - Antioch has the highest average ROI at 21.08%, followed by Nashville city center and Hermitage, both exceeding the regional average of 19.35%. Notably, Antioch and Hermitage also feature relatively low land costs, making them particularly attractive for value-driven investment opportunities.
 - In contrast, Brentwood, Old Hickory, and Goodlettsville fall below the regional average, with average ROI in the 9–10% range. In particular, Brentwood's high land costs present a higher-risk investment, as the elevated entry price is not matched by a proportional return.
 
+#### Effect of Construction Year on Sale Price (Single Family Homes)
+- Homes built before 2003, had significantly lower sale prices, cloesly aligned with their total values. This suggests that these properties may lack some of the modern features the today's buyers consider essential.
+- Properties built after 2003 showed a clear jump in sale prices, with values almost doubling compared to older homes. Especially, for properties constructed in 2011, average sale price peaked at $760K when the average total value was at $590K.
+- On the other hand, newer homes built after 2011 did not perform as well. Average sale prices dropped sharply and by 2014 the average sale price had fallen to $410K, even below the average total value. A possible explnation is that after the 2008 housing crisis, builders reduced home sizes and used cheaper materials to keep prices low and buyers responded accordingly.
+
+
+
 
 ### Recommendations
+1. Build a diversified property portfolio by combining different property types based on their risk and return profiles:
+- Duplex properties should form a core component of the portfolio as they offer an exceptional mix of high ROI (42.86%) and relatively low risk.
+- Zero Lot Line properties are a safe and consistent option. Their low volatility and reliable profit margins, even during market downturns, make them ideal for a low-risk investment strategy.
+- Vacant Residential Land can be included as a high-risk, high-reward asset, especially during periods of economic growth. While they offer the highest average profit margin (62.73%), their extreme volatility  means they should be used strategically and in smaller proportions within the portfolio.
+
+2. Prioritize High-Return Geographic Areas
+- Invest in Antioch, Hermitage, and Nashville city center which offer the most favorable ROI ratio and exceed the regional average (19.35%), combining reasonable land prices with strong returns.
+- Avoid investing in Brentwood, where high land costs ($7,035/acre) are not matched by returns (profit margin only 9.88%). This results in an increasing overall portfolio risk due to hight entry costs and poor ROI.
+
+3. Target the more proper year of built when investing in Single Family properties.
+- Prioritize homes built between 2003 and 2011, which showed the highest sale prices and strong market demand during the study period (2013–2016).
+- Avoid newly built homes from 2012 onward, where sale prices dropped significantly.
+
+
+
 
 
