@@ -48,6 +48,8 @@ A major market shift was observed in early 2014.
 - In contrast, Brentwood, Old Hickory, and Goodlettsville fall below the regional average, with average ROI in the 9–10% range. In particular, Brentwood's high land costs present a higher-risk investment, as the elevated entry price is not matched by a proportional return.
 
 #### Effect of Construction Year on Sale Price (Single Family Homes)
+<img width="1311" height="743" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/f6567183-9abe-43bb-a64b-6a132378cb1a" />
+
 - Homes built before 2003, had significantly lower sale prices, cloesly aligned with their total values. This suggests that these properties may lack some of the modern features the today's buyers consider essential.
 - Properties built after 2003 showed a clear jump in sale prices, with values almost doubling compared to older homes. Especially, for properties constructed in 2011, average sale price peaked at $760K when the average total value was at $590K.
 - On the other hand, newer homes built after 2011 did not perform as well. Average sale prices dropped sharply and by 2014 the average sale price had fallen to $410K, even below the average total value. A possible explnation is that after the 2008 housing crisis, builders reduced home sizes and used cheaper materials to keep prices low and buyers responded accordingly.
