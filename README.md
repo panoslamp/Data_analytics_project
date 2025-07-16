@@ -17,7 +17,7 @@ The original Nashville housing dataset had the bellow the structrure and include
 The SQL queries that were used to cunduct the cleaning of the dataset can be found [here](https://github.com/panoslamp/Data_analytics_project/blob/main/nashville%20housing%20cleaning.sql)
 
 ### Results / Findings
-Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here]
+Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here](https://github.com/panoslamp/Data_analytics_project/blob/main/Nashville%20Real%20Estate%20Dashboard.pbix)
 
 ![Screenshot (76)](https://github.com/user-attachments/assets/8d78d0c9-03f0-45b0-b961-42beb09700ef)
 #### Market trend overview
