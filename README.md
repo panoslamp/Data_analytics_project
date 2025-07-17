@@ -78,7 +78,7 @@ A major market shift was observed in early 2014.
 The analysis focused in four land use types: Single Family, Duplex, Zero Lot Line, and Vacant Residential Land. The other property types were excluded due to an insufficient amount of data that could lead to unreliable results.
 Further more, results of certain areas within the greater region of Nashville like Bellevue, Nolensville, Mount Juliet, Joelton and Whites Creek were not taken into account for the geographic analysis because of the low volume of transactions recorded in there areas.
 
-The SQL queries used to generate the number of results for each analysis section is available at the following [link](https://github.com/panoslamp/Data_analytics_project/blob/main/nashville%20housing%20cleaning.sql)
+The SQL queries used to generate the number of results for each analysis section is available at the following [link](https://github.com/panoslamp/Data_analytics_project/blob/main/Number%20of%20results.sql)
 
 
 
