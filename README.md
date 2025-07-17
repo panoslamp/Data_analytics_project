@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - **Regional Comparison**: Margin of profit and land values across various areas of Nashville.
 
 ### Data Sources
-The original dataset used for this analysis is the 
+The original dataset used for this analysis was downloaded from (https://github.com/IbukunoluwaTheAnalyst/Nashville-Housing-Data-for-Data-Cleaning-/blob/main/Uncleaned%20Nashville%20Housing%20Dataset.csv).
 
 ### Data Structure
 
