@@ -74,7 +74,11 @@ A major market shift was observed in early 2014.
 - Prioritize homes built between 2003 and 2011, which showed the highest sale prices and strong market demand during the study period (2013–2016).
 - Avoid newly built homes from 2012 onward, where sale prices dropped significantly.
 
+### Limitations
+The analysis focused in four land use types: Single Family, Duplex, Zero Lot Line, and Vacant Residential Land. The other property types were excluded due to an insufficient amount of data that could lead to unreliable results.
+Further more, results of certain areas within the greater region of Nashville like Bellevue, Nolensville, Mount Juliet, Joelton and Whites Creek were not taken into account for the geographic analysis because of the low volume of transactions recorded in there areas.
 
+The SQL queries used to generate the number of results for each analysis section is available at the following [link](
 
 
 
