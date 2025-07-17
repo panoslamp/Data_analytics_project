@@ -8,6 +8,9 @@ Insights and recommendations are provided on the following key areas:
 - **Return on Investment (ROI)** by land use type.
 - **Regional Comparison**: Margin of profit and land values across various areas of Nashville.
 
+### Data Sources
+The original dataset used for this analysis is the 
+
 ### Data Structure
 
 The original Nashville housing dataset had the bellow the structrure and included 1,048,575 records.
