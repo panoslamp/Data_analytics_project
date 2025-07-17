@@ -13,7 +13,7 @@ The original dataset used for this analysis was downloaded from (https://github.
 
 ### Data Structure
 
-The original Nashville housing dataset had the bellow the structrure and included 1,048,575 records.
+The original Nashville housing dataset had the bellow structrure and included 1,048,575 records.
 ![Screenshot (71)](https://github.com/user-attachments/assets/6ee86f32-b7b3-4633-98fb-ea36678f92bb)
 
 
